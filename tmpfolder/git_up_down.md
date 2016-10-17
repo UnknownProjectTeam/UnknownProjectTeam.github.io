@@ -15,8 +15,8 @@
 
       ```shell
       git add *
-      git config --global user.name "유저명"
-      git config --global user.email "이메일"
+      git config --global user.name "유저명" #한번만 설정하면 됨
+      git config --global user.email "이메일" #한번만 설정하면 됨
       git commit -m "comment"
       git push origin master
       ```
