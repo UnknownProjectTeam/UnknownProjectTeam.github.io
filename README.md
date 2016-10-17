@@ -14,5 +14,11 @@ md file guide program.. [HERE](http://www.typora.io/)
 
 ## Guide links
 
+<<<<<<< HEAD
 github 파일 업 / 다운로드 가이드 [HERE](./tmpfolder/git_up_down.md)
 intellij 세팅 가이드 [HERE](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
+=======
+github 파일 업 / 다운로드 가이드 [HERE](./git_up_down.md)
+
+intellij 세팅 가이드 [HERE](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
+>>>>>>> 671219fb84f9810be2590307c9a243009d91bc35
