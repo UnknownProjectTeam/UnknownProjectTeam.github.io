@@ -6,6 +6,8 @@
 
 blog link.... [HERE](http://UnknownProjectTeam.github.io)
 
+slack inv page... [HERE](https://uptslackinv.herokuapp.com/)
+
 slack link... [HERE](https://unknownprojectteamio.slack.com/messages/general/)
 
 ## ETC links
