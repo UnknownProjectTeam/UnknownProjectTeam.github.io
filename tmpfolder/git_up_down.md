@@ -9,6 +9,7 @@
       git init
       git remote add origin [URL]
       git fetch 
+      git pull origin master
       ```
 
       2.  업로드
